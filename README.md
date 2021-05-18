@@ -8,7 +8,7 @@
 I'm Adonis Kahila!
 <!-- - <i>Previously:</i> Full Stack Software Engineer at Zoho Corporation. -->
 
-<h2✨Stats</h2>
+<h2>✨Stats</h2>
 
 <div> 
   <p align="center">
