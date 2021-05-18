@@ -1,3 +1,5 @@
+![Adonis Kahilas' Banner Image](./banner.jpg)
+
 ### Hi there 👋
 
 <!--
