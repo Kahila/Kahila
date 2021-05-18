@@ -5,7 +5,7 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=kahila.kahila)](https://github.com/kahila) [![GitHub followers](https://img.shields.io/github/followers/kahila.svg?style=social&label=Follow)](https://github.com/kahila?tab=followers)
 
 
-I'm Adonis Kahila!
+<!-- I'm Adonis Kahila! -->
 <!-- - <i>Previously:</i> Full Stack Software Engineer at Zoho Corporation. -->
 
 <h2>✨Stats</h2>
@@ -36,3 +36,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<h2>📫 Get In Touch:</h2>
+
+<a href="adonis7121@gmail.com">![adonis7121@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/adonis-kahila-9b2a3b180/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
