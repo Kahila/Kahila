@@ -1,4 +1,4 @@
-![Adonis Kahilas' Banner Image](./banner.jpg)
+![Adonis Kahilas' Banner Image](./banner.png)
 
 ### Hi there 👋
 
