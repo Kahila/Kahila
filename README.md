@@ -2,6 +2,8 @@
 
 ### Hi there 👋
 
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=kahila.kahila)](https://github.com/kahila)
+
 <!--
 **Kahila/Kahila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
