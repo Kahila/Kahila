@@ -20,7 +20,7 @@ I'm Adonis Kahila!
 </div>
 
 
-<h2>💻 I'm Currently Learning</h2>
+<!-- <h2>💻 I'm Currently Learning</h2> -->
 
 <!--
 **Kahila/Kahila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
