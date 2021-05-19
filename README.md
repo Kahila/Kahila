@@ -1,6 +1,6 @@
 ![Adonis Kahilas' Banner Image](./banner.PNG)
 
-<h2>Hey! 👋</h2>
+<h2>HI There! 👋</h2>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=kahila.kahila)](https://github.com/kahila) [![GitHub followers](https://img.shields.io/github/followers/kahila.svg?style=social&label=Follow)](https://github.com/kahila?tab=followers)
 
