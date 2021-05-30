@@ -8,16 +8,7 @@
 <!-- I'm Adonis Kahila! -->
 <!-- - <i>Previously:</i> Full Stack Software Engineer at Zoho Corporation. -->
 
-<h2>✨Stats</h2>
 
-<div> 
-  <p align="center">
-  <b><em>Overall GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kahila" alt="GitHub Stats" /> <br/><br/>
-<!--   <b><em>My Programming activity (Last 7 days):</em></b> <br/> -->
-<!--     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kahila" alt="WakaTime" /> -->
-  </p>
-</div>
 
 
 <!-- <h2>💻 I'm Currently Learning</h2> -->
