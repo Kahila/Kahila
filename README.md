@@ -3,7 +3,7 @@
 <h2>HI There! 👋</h2>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=kahila.kahila)](https://github.com/kahila) [![GitHub followers](https://img.shields.io/github/followers/kahila.svg?style=social&label=Follow)](https://github.com/kahila?tab=followers)
-[![THM]<script src="https://tryhackme.com/badge/473847"></script>]
+<!-- [![THM]<script src="https://tryhackme.com/badge/473847"></script>] -->
 
 <!-- <script src="https://tryhackme.com/badge/473847"></script> -->
 
