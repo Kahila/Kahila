@@ -1,4 +1,4 @@
-![Adonis Kahilas' Banner Image](https://tryhackme.com/badge/473847)
+![Adonis Kahilas' Banner Image](./banner.jpg)
 
 <h2>HI There! 👋</h2>
 
