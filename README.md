@@ -1,4 +1,4 @@
-![Adonis Kahilas' Banner Image](./banner.jpg)
+![Adonis Kahilas' Banner Image](./banner.png)
 
 <h2>HI There! 👋</h2>
 
