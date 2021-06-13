@@ -1,8 +1,10 @@
-![Adonis Kahilas' Banner Image](./banner.PNG)
+![Adonis Kahilas' Banner Image](https://tryhackme.com/badge/473847)
 
 <h2>HI There! 👋</h2>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=kahila.kahila)](https://github.com/kahila) [![GitHub followers](https://img.shields.io/github/followers/kahila.svg?style=social&label=Follow)](https://github.com/kahila?tab=followers)
+
+<!-- <script src="https://tryhackme.com/badge/473847"></script> -->
 
 
 <!-- I'm Adonis Kahila! -->
