@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   margin-left: auto;
   margin-right: auto;
   width: 40%;">
-  <h3 align="center">TryHackMe</h3>
+  <h3 align="center"><div class="text">Kah!la$ TryHackMe</div></h3>
   <p align="center" style="display: flex;">
     <img src="https://github.com/Kahila/Kahila/blob/main/badges/tryHackMe/burpsuite.svg" alt="burpsuite" style="width:130px;height:130px;" />
     <img src="https://github.com/Kahila/Kahila/blob/main/badges/tryHackMe/howthewebworks.svg" alt="TM" style="width:130px;height:130px;" />
