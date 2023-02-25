@@ -48,15 +48,15 @@ Here are some ideas to get you started:
   width: 40%;">
   <h3 align="center">Kah!la$ TryHackMe</h3>
   <p align="center" style="display: flex;">
-    <img src="https://github.com/Kahila/Kahila/blob/main/badges/tryHackMe/burpsuite.svg" alt="burpsuite" style="width:130px;height:130px;" />
-    <img src="https://github.com/Kahila/Kahila/blob/main/badges/tryHackMe/howthewebworks.svg" alt="TM" style="width:130px;height:130px;" />
-    <img src="https://github.com/Kahila/Kahila/blob/main/badges/tryHackMe/linux.svg" alt="TM" style="width:130px;height:130px;" />
-    <img src="https://github.com/Kahila/Kahila/blob/main/badges/tryHackMe/metasploit.svg" alt="TM" style="width:130px;height:130px;" />
-    <img src="https://github.com/Kahila/Kahila/blob/main/badges/tryHackMe/networkfundamentals.svg" alt="TM" style="width:130px;height:130px;" />
-    <img src="https://github.com/Kahila/Kahila/blob/main/badges/tryHackMe/owasptop10.svg" alt="TM" style="width:130px;height:130px;" />
-    <img src="https://github.com/Kahila/Kahila/blob/main/badges/tryHackMe/streak30.svg" alt="TM" style="width:130px;height:130px;" />
-    <img src="https://github.com/Kahila/Kahila/blob/main/badges/tryHackMe/streak7.svg" alt="TM" style="width:130px;height:130px;" />
-    <img src="https://github.com/Kahila/Kahila/blob/main/badges/tryHackMe/throwback.svg" alt="TM" style="width:130px;height:130px;" />
+    <img src="https://github.com/Kahila/Kahila/blob/main/badges/tryHackMe/burpsuite.svg" alt="burpsuite" style="width:110px;height:110px;" />
+    <img src="https://github.com/Kahila/Kahila/blob/main/badges/tryHackMe/howthewebworks.svg" alt="TM" style="width:110px;height:110px;" />
+    <img src="https://github.com/Kahila/Kahila/blob/main/badges/tryHackMe/linux.svg" alt="TM" style="width:110px;height:110px;" />
+    <img src="https://github.com/Kahila/Kahila/blob/main/badges/tryHackMe/metasploit.svg" alt="TM" style="width:110px;height:110px;" />
+    <img src="https://github.com/Kahila/Kahila/blob/main/badges/tryHackMe/networkfundamentals.svg" alt="TM" style="width:110px;height:110px;" />
+    <img src="https://github.com/Kahila/Kahila/blob/main/badges/tryHackMe/owasptop10.svg" alt="TM" style="width:110px;height:110px;" />
+    <img src="https://github.com/Kahila/Kahila/blob/main/badges/tryHackMe/streak30.svg" alt="TM" style="width:110px;height:110px;" />
+    <img src="https://github.com/Kahila/Kahila/blob/main/badges/tryHackMe/streak7.svg" alt="TM" style="width:110px;height:110px;" />
+    <img src="https://github.com/Kahila/Kahila/blob/main/badges/tryHackMe/throwback.svg" alt="TM" style="width:110px;height:110px;" />
   </p>
 </div>
 
