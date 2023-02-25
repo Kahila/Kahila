@@ -30,7 +30,13 @@ Here are some ideas to get you started:
 
 <h2>🏆 Badges</h2>
 
+<div> 
+  <p align="center">
+    <img src="https://github.com/Kahila/Kahila/blob/main/badges/trendMicro/BA01_Professional_Badges_210210US-03.png" alt="TM" /> <br/><br/>
+  </p>
+</div>
 
 <h2>📫 Get In Touch</h2>
 
 <a href="https://www.linkedin.com/in/adonis-kahila-9b2a3b180/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
