@@ -40,6 +40,53 @@ Here are some ideas to get you started:
     <img src="https://github.com/Kahila/Kahila/blob/main/badges/trendMicro/BA01_Professional_Badges_210210US-03.png" alt="TM" style="width:130px;height:130px;" /> 
     <img src="https://github.com/Kahila/Kahila/blob/main/badges/trendMicro/Deep%20Discovery%20Certified%20Professional%20Badge.png" alt="TM" style="width:130px;height:130px;" /> 
   </p>
+  
+  <style>
+ .text { 
+  position: relative;
+  display: inline-block;
+  font-family: Monaco, Arial, Helvetica, sans-serif;
+  line-height: 24px;
+  font-size: 24px;
+  color: white;
+  min-width: 360px;
+}
+
+.text::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: -15px;
+  /* Remove display: inline-block if not required to be on the same line as text etc */
+  display: inline-block;
+  background-color: #606060;
+  vertical-align: top;
+  width: 10px;
+  /* Set height to the line height of .text */
+  height: 24px;
+  /* 
+  Animation paramaters:
+  blink = animation-name, 
+  1s = animation-duration, 
+  step-end = animation-timing-function,
+  infinite = animation-iteration-count
+  */
+  -webkit-animation: blink 1s step-end infinite;
+  animation: blink 1s step-end infinite;
+}
+
+@-webkit-keyframes blink {
+  0% { opacity: 1.0; }
+  50% { opacity: 0.0; }
+  100% { opacity: 1.0; }
+}
+
+@keyframes blink {
+  0% { opacity: 1.0; }
+  50% { opacity: 0.0; }
+  100% { opacity: 1.0; }
+}
+</style>
 </div>
 
 <div style="display: block;
