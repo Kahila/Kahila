@@ -7,11 +7,8 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kahila&theme=merko" alt="GitHub Stats" /> <br/><br/>
   </p>
 </div>
-<div> 
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=kahila&theme=merko" alt="GitHub Stats" /> <br/><br/>
-  </p>
-</div>
+
+
 
 
 <!-- <h2>💻 I'm Currently Learning</h2> -->
@@ -31,8 +28,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h2>🏆 Badges</h2>
 
-<h2>📫 Get In Touch:</h2>
 
-<!-- <a href="adonis7121@gmail.com">![adonis7121@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>  -->
+<h2>📫 Get In Touch</h2>
+
 <a href="https://www.linkedin.com/in/adonis-kahila-9b2a3b180/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
