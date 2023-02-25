@@ -42,6 +42,8 @@ Here are some ideas to get you started:
   </p>
 </div>
 
+<hr>
+
 <div style="display: block;
   margin-left: auto;
   margin-right: auto;
