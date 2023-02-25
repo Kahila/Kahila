@@ -35,9 +35,9 @@ Here are some ideas to get you started:
   margin-right: auto;
   width: 40%;"> 
   <p align="center" style="display: flex;">
-    <img src="https://github.com/Kahila/Kahila/blob/main/badges/trendMicro/Deep%20Security%20Certified%20Professional%20Badge.png" alt="TM" style="width:150px;height:150px;" /> <br/><br/>
-    <img src="https://github.com/Kahila/Kahila/blob/main/badges/trendMicro/BA01_Professional_Badges_210210US-03.png" alt="TM" style="width:150px;height:150px;" /> <br/><br/>
-    <img src="https://github.com/Kahila/Kahila/blob/main/badges/trendMicro/Deep%20Discovery%20Certified%20Professional%20Badge.png" alt="TM" style="width:150px;height:150px;" /> <br/><br/>
+    <img src="https://github.com/Kahila/Kahila/blob/main/badges/trendMicro/Deep%20Security%20Certified%20Professional%20Badge.png" alt="TM" style="width:150px;height:150px;" /> 
+    <img src="https://github.com/Kahila/Kahila/blob/main/badges/trendMicro/BA01_Professional_Badges_210210US-03.png" alt="TM" style="width:150px;height:150px;" /> 
+    <img src="https://github.com/Kahila/Kahila/blob/main/badges/trendMicro/Deep%20Discovery%20Certified%20Professional%20Badge.png" alt="TM" style="width:150px;height:150px;" /> 
   </p>
 </div>
 
