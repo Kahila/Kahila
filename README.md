@@ -33,13 +33,13 @@ Here are some ideas to get you started:
 <div style="display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 40%;"> 
+  width: 40%;">
+  <h3 align="center">Trend Micro</h3>
   <p align="center" style="display: flex;">
     <img src="https://github.com/Kahila/Kahila/blob/main/badges/trendMicro/Deep%20Security%20Certified%20Professional%20Badge.png" alt="TM" style="width:150px;height:150px;" /> 
     <img src="https://github.com/Kahila/Kahila/blob/main/badges/trendMicro/BA01_Professional_Badges_210210US-03.png" alt="TM" style="width:150px;height:150px;" /> 
     <img src="https://github.com/Kahila/Kahila/blob/main/badges/trendMicro/Deep%20Discovery%20Certified%20Professional%20Badge.png" alt="TM" style="width:150px;height:150px;" /> 
   </p>
-  <h3>Trend Micro</h3>
 </div>
 
 <h2>📫 Get In Touch</h2>
