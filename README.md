@@ -34,7 +34,8 @@ Here are some ideas to get you started:
   margin-left: auto;
   margin-right: auto;
   width: 40%;">
-  <h3 align="center">Kah!la$ Trend Micro <img src="https://tryhackme-badges.s3.amazonaws.com/kahila.png" alt="TryHackMe"></h3>
+  <h3 align="center">Kah!la$ Trend Micro</h3>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/kahila.png" alt="TryHackMe" align="center">
   <p align="center" style="display: flex;">
     <img src="https://github.com/Kahila/Kahila/blob/main/badges/trendMicro/Deep%20Security%20Certified%20Professional%20Badge.png" alt="TM" style="width:130px;height:130px;" /> 
     <img src="https://github.com/Kahila/Kahila/blob/main/badges/trendMicro/BA01_Professional_Badges_210210US-03.png" alt="TM" style="width:130px;height:130px;" /> 
