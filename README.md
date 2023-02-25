@@ -1,28 +1,18 @@
-![Adonis Kahilas' Banner Image](./banner.PNG)
-
-<h2>HI There! 👋</h2>
-
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=kahila.kahila)](https://github.com/kahila) [![GitHub followers](https://img.shields.io/github/followers/kahila.svg?style=social&label=Follow)](https://github.com/kahila?tab=followers)
-<!-- [![THM]<script src="https://tryhackme.com/badge/473847"></script>] -->
-
-<!-- <script src="https://tryhackme.com/badge/473847"></script> -->
-
-
-<!-- I'm Adonis Kahila! -->
-<!-- - <i>Previously:</i> Full Stack Software Engineer at Zoho Corporation. -->
-
 
 <h2>✨Stats</h2>
 
 <div> 
   <p align="center">
   <b><em>Overall GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kahila" alt="GitHub Stats" /> <br/><br/>
-<!--   <b><em>My Programming activity (Last 7 days):</em></b> <br/> -->
-<!--     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kahila" alt="WakaTime" /> -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kahila&theme=merko" alt="GitHub Stats" /> <br/><br/>
   </p>
-  <p align="center">
 </div>
+<div> 
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=kahila&theme=merko" alt="GitHub Stats" /> <br/><br/>
+  </p>
+</div>
+
 
 <!-- <h2>💻 I'm Currently Learning</h2> -->
 
