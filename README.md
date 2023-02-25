@@ -1,3 +1,4 @@
+
 <h2>✨Stats</h2>
 
 <div> 
@@ -32,13 +33,15 @@ Here are some ideas to get you started:
 <div style="display: block;
   margin-left: auto;
   margin-right: auto;
-  display: flex;
   width: 40%;"> 
-    <img src="https://github.com/Kahila/Kahila/blob/main/badges/trendMicro/Deep%20Security%20Certified%20Professional%20Badge.png" alt="TM" style="width:150px;height:150px;" /> <br/>
-    <img src="https://github.com/Kahila/Kahila/blob/main/badges/trendMicro/BA01_Professional_Badges_210210US-03.png" alt="TM" style="width:150px;height:150px;" /> <br/>
-    <img src="https://github.com/Kahila/Kahila/blob/main/badges/trendMicro/Deep%20Discovery%20Certified%20Professional%20Badge.png" alt="TM" style="width:150px;height:150px;" /> <br/>
+  <p align="center" style="display: flex;">
+    <img src="https://github.com/Kahila/Kahila/blob/main/badges/trendMicro/Deep%20Security%20Certified%20Professional%20Badge.png" alt="TM" style="width:150px;height:150px;" /> <br/><br/>
+    <img src="https://github.com/Kahila/Kahila/blob/main/badges/trendMicro/BA01_Professional_Badges_210210US-03.png" alt="TM" style="width:150px;height:150px;" /> <br/><br/>
+    <img src="https://github.com/Kahila/Kahila/blob/main/badges/trendMicro/Deep%20Discovery%20Certified%20Professional%20Badge.png" alt="TM" style="width:150px;height:150px;" /> <br/><br/>
+  </p>
 </div>
 
 <h2>📫 Get In Touch</h2>
 
 <a href="https://www.linkedin.com/in/adonis-kahila-9b2a3b180/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
