@@ -21,6 +21,8 @@
 <!--   <b><em>My Programming activity (Last 7 days):</em></b> <br/> -->
 <!--     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kahila" alt="WakaTime" /> -->
   </p>
+  <p align="center">
+<a href="https://trinib.wrapped.run"><b>My GitHub Wrapped</b></a>
 </div>
 
 <!-- <h2>💻 I'm Currently Learning</h2> -->
