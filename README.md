@@ -42,7 +42,16 @@ Here are some ideas to get you started:
   </p>
 </div>
 
+<div style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;">
+  <h3 align="center">TryHackMe</h3>
+  <p align="center" style="display: flex;">
+    <img src="https://github.com/Kahila/Kahila/blob/main/badges/tryHackMe/burpsuite.svg" alt="TM" style="width:150px;height:150px;" />
+  </p>
+</div>
+
 <h2>📫 Get In Touch</h2>
 
 <a href="https://www.linkedin.com/in/adonis-kahila-9b2a3b180/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
