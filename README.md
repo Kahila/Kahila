@@ -22,7 +22,7 @@
 <!--     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kahila" alt="WakaTime" /> -->
   </p>
   <p align="center">
-<a href="https://trinib.wrapped.run"><b>My GitHub Wrapped</b></a>
+<img src="https://camo.githubusercontent.com/fc7ab63c0d13a62ee92c9262c367cdf87b13b50f5781eb5854daf78d1d150c49/68747470733a2f2f6769746875622d726561646d652d73746174732d7472696e69622e76657263656c2e6170702f6170692f3f757365726e616d653d7472696e6962267468656d653d6d65726b6f26626f726465725f636f6c6f723d6339666630302673686f775f69636f6e733d74727565">
 </div>
 
 <!-- <h2>💻 I'm Currently Learning</h2> -->
