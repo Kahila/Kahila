@@ -48,7 +48,10 @@ Here are some ideas to get you started:
   margin-left: auto;
   margin-right: auto;
   width: 40%;">
-  <h3 align="center">Kah!la$ TryHackMe</h3>
+  <h3 align="center">Kah!la$ 
+    <p align="center">
+      <img src="https://readme-typing-svg.demolab.com/?lines=Trend+Micro&font=Fira%20Code&center=true&width=460&height=50&duration=5000&pause=1000">
+    </p></h3>
   <p align="center"><img src="https://tryhackme-badges.s3.amazonaws.com/kahila.png" alt="TryHackMe" ></p>
   <p align="center" style="display: flex;">
     <img src="https://github.com/Kahila/Kahila/blob/main/badges/tryHackMe/burpsuite.svg" alt="burpsuite" style="width:110px;height:110px;" />
