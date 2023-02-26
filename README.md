@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   margin-left: auto;
   margin-right: auto;
   width: 40%;">
-  <h3 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Trend+Micro+badges&duration=5000&pause=30000&center=true&color=FF0000"></h3>
+  <h3 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Trend+Micro+badges&duration=5000&pause=60000&center=true&color=FF0000"></h3>
   <p align="center" style="display: flex;">
     <img src="https://github.com/Kahila/Kahila/blob/main/badges/trendMicro/Deep%20Security%20Certified%20Professional%20Badge.png" alt="TM" style="width:130px;height:130px;" /> 
     <img src="https://github.com/Kahila/Kahila/blob/main/badges/trendMicro/BA01_Professional_Badges_210210US-03.png" alt="TM" style="width:130px;height:130px;" /> 
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   margin-left: auto;
   margin-right: auto;
   width: 40%;">
-  <h3 align="center">Kah!la$ </h3>
+  <h3 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=TryHackMe+badges&duration=5000&pause=60000&center=true&color=FF0000"></h3>
   <p align="center"><img src="https://tryhackme-badges.s3.amazonaws.com/kahila.png" alt="TryHackMe" ></p>
   <p align="center" style="display: flex;">
     <img src="https://github.com/Kahila/Kahila/blob/main/badges/tryHackMe/burpsuite.svg" alt="burpsuite" style="width:110px;height:110px;" />
