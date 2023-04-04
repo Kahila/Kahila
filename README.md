@@ -1,13 +1,6 @@
 
 <h2>✨Stats</h2></b> <br/></b> <br/>
 
-<div> 
-  <p align="center">
-    <img src="https://github-stats-alpha.vercel.app/api?username=kahila&cc=000&tc=fff&ic=fff&bc=000" alt="Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kahila&theme=merko" alt="GitHub Stats" /> 
-  </p>
-</div>
-
 
 
 
