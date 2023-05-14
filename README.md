@@ -28,20 +28,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>🏆 Badges</h2>
-
-<div style="display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 40%;">
-  <h3 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Trend+Micro+badges&duration=5000&pause=60000&center=true&color=FF0000"></h3>
-  <p align="center" style="display: flex;">
-    <img src="https://github.com/Kahila/Kahila/blob/main/badges/trendMicro/Deep%20Security%20Certified%20Professional%20Badge.png" alt="TM" style="width:130px;height:130px;" /> 
-    <img src="https://github.com/Kahila/Kahila/blob/main/badges/trendMicro/BA01_Professional_Badges_210210US-03.png" alt="TM" style="width:130px;height:130px;" /> 
-    <img src="https://github.com/Kahila/Kahila/blob/main/badges/trendMicro/Deep%20Discovery%20Certified%20Professional%20Badge.png" alt="TM" style="width:130px;height:130px;" /> 
-  </p>
-</div>
-
 <hr>
 
 <h2>📫 Get In Touch</h2>
