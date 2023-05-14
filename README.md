@@ -44,25 +44,6 @@ Here are some ideas to get you started:
 
 <hr>
 
-<div style="display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 40%;">
-  <h3 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=TryHackMe+badges&duration=5000&pause=60000&center=true&color=FF0000"></h3>
-  <p align="center"><img src="https://tryhackme-badges.s3.amazonaws.com/kahila.png" alt="TryHackMe" ></p>
-  <p align="center" style="display: flex;">
-    <img src="https://github.com/Kahila/Kahila/blob/main/badges/tryHackMe/burpsuite.svg" alt="burpsuite" style="width:110px;height:110px;" />
-    <img src="https://github.com/Kahila/Kahila/blob/main/badges/tryHackMe/howthewebworks.svg" alt="TM" style="width:110px;height:110px;" />
-    <img src="https://github.com/Kahila/Kahila/blob/main/badges/tryHackMe/linux.svg" alt="TM" style="width:110px;height:110px;" />
-    <img src="https://github.com/Kahila/Kahila/blob/main/badges/tryHackMe/metasploit.svg" alt="TM" style="width:110px;height:110px;" />
-    <img src="https://github.com/Kahila/Kahila/blob/main/badges/tryHackMe/networkfundamentals.svg" alt="TM" style="width:110px;height:110px;" />
-    <img src="https://github.com/Kahila/Kahila/blob/main/badges/tryHackMe/owasptop10.svg" alt="TM" style="width:110px;height:110px;" />
-    <img src="https://github.com/Kahila/Kahila/blob/main/badges/tryHackMe/streak30.svg" alt="TM" style="width:110px;height:110px;" />
-    <img src="https://github.com/Kahila/Kahila/blob/main/badges/tryHackMe/streak7.svg" alt="TM" style="width:110px;height:110px;" />
-    <img src="https://github.com/Kahila/Kahila/blob/main/badges/tryHackMe/throwback.svg" alt="TM" style="width:110px;height:110px;" />
-  </p>
-</div>
-
 <h2>📫 Get In Touch</h2>
 
 <a href="https://www.linkedin.com/in/adonis-kahila-9b2a3b180/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
