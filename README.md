@@ -1,5 +1,5 @@
 
-<h2>✨Stats</h2></b> <br/></b> <br/>
+<h2>✨STATS</h2></b> <br/></b> <br/>
 
 <div> 
   <p align="center">
